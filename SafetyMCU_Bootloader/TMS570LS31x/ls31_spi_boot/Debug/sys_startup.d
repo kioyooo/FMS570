@@ -1,0 +1,51 @@
+# FIXED
+
+sys_startup.obj: C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/src/sys_startup.c
+sys_startup.obj: C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/sys_common.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdint.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/_ti_config.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/linkage.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/_stdint40.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/stdint.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/cdefs.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_types.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/machine/_types.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/machine/_stdint.h
+sys_startup.obj: D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h
+sys_startup.obj: C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/system.h
+sys_startup.obj: C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/hw_gio.h
+sys_startup.obj: C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/sys_vim.h
+sys_startup.obj: C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/sys_core.h
+
+C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/src/sys_startup.c:
+
+C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/sys_common.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdint.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/_ti_config.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/linkage.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/_stdint40.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/stdint.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/cdefs.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_types.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/machine/_types.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/machine/_stdint.h:
+
+D:/CCS12.7.0.00007_win64/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h:
+
+C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/system.h:
+
+C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/hw_gio.h:
+
+C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/sys_vim.h:
+
+C:/Users/user/Documents/WeChat\ Files/wxid_sc6x6uvybbc212/FileStorage/File/2024-05/spna199/SafetyMCU_Bootloader/inc/sys_core.h:
+
